@@ -340,7 +340,7 @@ AWSのEC2内で実施した「Nginxの導入」手順と同一のコマンドラ
      sudo firewall-cmd --reload
      ```
 3. **ブラウザ疎通確認**
-   * ホストPCのブラウザから `http://10.10.1.215/` にアクセスし、「Welcome to nginx!」の正常な応答を確認。
+   * ホストPCのブラウザから `http://10.10.1.215/` にアクセスし、「WEB Server Test Page」の正常な応答を確認。
 
 ![ブラウザからの接続検証結果](img/my-onpre-webserver.png)
 
